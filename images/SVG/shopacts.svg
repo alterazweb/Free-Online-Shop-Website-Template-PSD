@@ -1,0 +1,11 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="74px" height="35px">
+<path fill-rule="evenodd"  fill="rgb(125, 177, 34)"
+ d="M17.499,0.0 C27.164,0.0 34.999,7.834 34.999,17.499 C34.999,27.164 27.164,34.999 17.499,34.999 C7.834,34.999 0.0,27.164 0.0,17.499 C0.0,7.834 7.834,0.0 17.499,0.0 Z"/>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="18px" x="8px" y="24.926px"><tspan font-size="18px" font-family="FontAwesome" fill="#FFFFFF">&#61484;</tspan></text>
+<path fill-rule="evenodd"  fill="rgb(125, 177, 34)"
+ d="M56.499,0.0 C66.164,0.0 73.999,7.834 73.999,17.499 C73.999,27.164 66.164,34.999 56.499,34.999 C46.834,34.999 38.999,27.164 38.999,17.499 C38.999,7.834 46.834,0.0 56.499,0.0 Z"/>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="20px" x="47px" y="24.572px"><tspan font-size="20px" font-family="FontAwesome" fill="#FFFFFF">&#61562;</tspan></text>
+</svg>

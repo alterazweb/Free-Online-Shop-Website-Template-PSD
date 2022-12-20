@@ -1,0 +1,30 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="93" viewBox="0 0 96 93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6a951e;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #649016;
+      }
+
+      .cls-3 {
+        fill: #7db122;
+      }
+
+      .cls-4 {
+        fill: #628f13;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_5_copy_10" data-name="Rectangle 5 copy 10" class="cls-1" d="M806.006,710.277h-2.99v1.994H808Z" transform="translate(-712 -709)"/>
+  <path id="Rectangle_5_copy_10-2" data-name="Rectangle 5 copy 10" class="cls-2" d="M712.311,800.006v-2.991h1.994V802Z" transform="translate(-712 -709)"/>
+  <path id="Rectangle_4_copy_9" data-name="Rectangle 4 copy 9" class="cls-3" d="M755.172,709.28l-42.861,40.877v46.858l93.695-87.735H755.172Z" transform="translate(-712 -709)"/>
+  <image id="SALE" x="18" y="18" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABaklEQVRYhcVW0a3DIAwkUhfICqyQFbpCV+gKrJCOwApZoStkha6QjuCKyrzeI5CQxk4t5cdE3HE+G4xmEJELnypIKRg8hP8FeP9LcJ8DJ6KOiFptcEtEExNwkD9zflAlYD4nnfjrwAujugJA4sygUwn8iHLEk4e4ZNbeCh1F4g9MrD3Z7atDJiEh054lt1eQkJsNqdsrScgOpsTtWRLhH1HQDMDMaJm16x4Az+Ypyqzm9sQ8IYYFqZFE9j74hoAF4GGNiJbbBz5Vy85fJCLudnB6D7l7bWm2gnXp3Ob8yCpYrG/4l9eyF85W8Dgmx8waXqmz6cdEdoH7NSmJ6FE7ereCu5qNQSFxAm9DZfIWpYWWnJVoL4Eof8+ADmodB4szn5Yk0fnO/f2g/zGxMh5uvJZbUv6pzZs7VsGho8Ejs/aUiFPYo2mapzHmVtgvknlqEFgMOL3+ex4jmfnHvedj4F1+ODiQsOogxpgX5DQ6to0rH8MAAAAASUVORK5CYII="/>
+  <path id="Shape_2_copy_9" data-name="Shape 2 copy 9" class="cls-4" d="M806.7,709l-2.382.561-91.7,86.737-0.607,3.428Z" transform="translate(-712 -709)"/>
+</svg>

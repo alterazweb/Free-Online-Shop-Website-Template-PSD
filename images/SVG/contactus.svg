@@ -1,0 +1,23 @@
+<svg id="contact_us" data-name="contact us" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173" height="36" viewBox="0 0 173 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 18px;
+        fill: #39a0b9;
+        font-family: FontAwesome;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_6_copy_2" data-name="Ellipse 6 copy 2" class="cls-1" cx="18" cy="18" r="18"/>
+  <image  x="10px" y="11px" width="18px" height="17px"  xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAMAAADnhAzLAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAM1BMVEU5oLk5oLk5oLk5oLk5oLk5oLk5oLk5oLk5oLk5oLk5oLk5oLk5oLk5oLk5oLk5oLn///84JmO4AAAAD3RSTlMAd8y7qhHdIjNEmVWIZu4ZNeXhAAAAAWJLR0QQlbINLAAAAAd0SU1FB+YLGhczJeK70FcAAACISURBVBjTXU9JDsQwCINsZCv+/28LnTTR1AcEFsaGyMABDiYG/RAT5YgitClGJRIgNY5gbkYFiK+i9EfebSgYVifCESZEqx3XoUTNq+q0tvXlKKl4gg/gsn/Ez9qVSlFgbiIHtRDZQo2jaeuJ1y7jCe8WW6nrcPVX13F7q0llHcewJYWGKe98A2ZCBRqEC9p5AAAAAElFTkSuQmCC" />
+  <circle id="Ellipse_6_copy_3" data-name="Ellipse 6 copy 3" class="cls-1" cx="64" cy="18" r="18"/>
+  <text id="_2" data-name="" class="cls-2" x="58" y="24.001"></text>
+  <circle id="Ellipse_6_copy_4" data-name="Ellipse 6 copy 4" class="cls-1" cx="110" cy="18" r="18"/>
+  <text id="_3" data-name="" class="cls-2" x="104" y="25"></text>
+  <circle id="Ellipse_6_copy_5" data-name="Ellipse 6 copy 5" class="cls-1" cx="155" cy="18" r="18"/>
+  <text id="_4" data-name="" class="cls-2" x="151" y="25"></text>
+</svg>

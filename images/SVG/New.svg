@@ -1,0 +1,22 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96.312" height="93.281" viewBox="0 0 96.312 93.281">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2b9eba;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #4cb1ca;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_5_copy_9" data-name="Rectangle 5 copy 9" class="cls-1" d="M332,711h3v2h-5Z" transform="translate(-330 -709.719)"/>
+  <path id="Rectangle_5_copy_9-2" data-name="Rectangle 5 copy 9" class="cls-1" d="M426,801v-3h-2v5Z" transform="translate(-330 -709.719)"/>
+  <path id="Rectangle_4_copy_8" data-name="Rectangle 4 copy 8" class="cls-2" d="M383,710l43,41v47l-94-88h51Z" transform="translate(-330 -709.719)"/>
+  <image id="NEW_copy_8" data-name="NEW copy 8" x="44" y="17.281" width="32" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAdCAYAAADLnm6HAAABfklEQVRIicVWUXHDMAzV7UYgFErBFEohFEIhg1AKHgQPQimEQgbBFLTzTc5eNDnrFvnmn9Syzu/JfnoutQYzD8wcy7eZ1GsI+MKfY/kv8CwE1p54TxqciO5EFIjoVcJvPQk8q3kU8BeIvfcksA0RXBk32s+Dyks65gkeIbYWHfyU1wVc4jsBdgGXjWcD/KquY5Z5Unl9vAIAJ/i9IJD2ClcScNyPgvuSEAGymNEReJTYaOWeIZCBwKDWkuWQpTUl/+ZBIMgpaA+I6ti1eC/ynU+TMEgh+AD60CQm7KAu4BDfugViq1zFxZOA2Q2yFow8v+ofIUFf3bE2hDt7dcfUardSdfUOiF1BsD7/K6wOkepzBQGLZmjpdLjxSVIVbIRTYombz7oneKhHzMx30MkIa9YjNnoRSHDUWWkg6eqFWLX6qbnxLwhsT7XyiF31hi5cjerb/QqhLESw6sXVpFqEQIR4Rf5vRIPA9mJa19MbvHpCJeCj9j+QKM54XDURfQDevHEq1KNDEgAAAABJRU5ErkJggg=="/>
+  <path id="Shape_2_copy_8" data-name="Shape 2 copy 8" class="cls-1" d="M331.305,709.719l2.39,0.562,92,87,0.61,3.438Z" transform="translate(-330 -709.719)"/>
+</svg>

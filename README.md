@@ -1,1 +1,1 @@
-# Шаблон PSD в папке PSD makets - Free Online Shop Website Template PSD
+# Шаблон в папке PSD model - Free Online Shop Website Template PSD

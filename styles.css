@@ -301,7 +301,7 @@ display: inline-block;
 width: 233px;
 display: inline-block;
 vertical-align: top;
-margin-top: 9px;/*корректировка по шрифту*/
+margin-top: 9px;
 }
 .Left {
 box-shadow: 0 0 13px rgba(0, 0, 0, 0.15);
@@ -385,7 +385,7 @@ border: 1px solid rgb(198, 198, 198);
 background-color: rgb(255, 255, 255);
 opacity: 0.5;
 width: 187px;
-height: 29px;
+/*height: 30px;*/
 }
 .Newsletter_sign_up button {
 font-size: 14px;

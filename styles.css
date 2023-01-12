@@ -356,7 +356,7 @@ background-color: rgb(76, 177, 202);
 margin-right: 10px;
 }
 .Newsletter_sign_up {
-height: 281px;
+height: 255px;
 margin-top: 22px;
 font-size: 24px;
 font-family: "Open Sans";
@@ -375,7 +375,7 @@ line-height: 1.429;
 }
 .Newsletter_sign_up>hr {
 background-color: rgb(237, 237, 237);
-margin: 10px auto 12px auto;
+margin: 8px auto 12px auto;
 border: 0px;
 width: 85px;
 height: 1px;
@@ -384,8 +384,8 @@ height: 1px;
 border: 1px solid rgb(198, 198, 198);
 background-color: rgb(255, 255, 255);
 opacity: 0.5;
-width: 189px;
-height: 31px;
+width: 187px;
+height: 28px;
 }
 .Newsletter_sign_up button {
 font-size: 14px;

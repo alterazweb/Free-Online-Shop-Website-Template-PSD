@@ -250,7 +250,7 @@ margin: 8px 8px 10px 8px;
 width: 217px;
 height: 229px;
 overflow: hidden;
-display: grid;
+display: inline-grid;
 justify-content: center;
 }
 .goodinfo {
